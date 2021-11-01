@@ -1,0 +1,8 @@
+setup.py
+acLearn/__init__.py
+acLearn/train_and_select.py
+acLearn.egg-info/PKG-INFO
+acLearn.egg-info/SOURCES.txt
+acLearn.egg-info/dependency_links.txt
+acLearn.egg-info/entry_points.txt
+acLearn.egg-info/top_level.txt

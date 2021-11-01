@@ -1,0 +1,3 @@
+[napari.plugin]
+open = acLearn.train_and_select
+
